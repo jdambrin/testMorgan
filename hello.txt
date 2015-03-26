@@ -1,5 +1,4 @@
 Salut Morgan !
-<<<<<<< HEAD
 
 Salut Julien ! 
 
@@ -13,5 +12,3 @@ troiseme
 
 toto !
 
-=======
->>>>>>> parent of 4b62e11... petite modif
